@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MoonTest</string>
+
+    <!-- menu  -->
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
+
+
+    <string name="content_authority">com.pangge.moontest.provider</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">北京</string>
+    <string name="pref_location_Id_default" translatable="false">101010100</string>
+    <string name="clear">晴天</string>
+    <string name="temp">%1$s°C</string>
+
+</resources>
