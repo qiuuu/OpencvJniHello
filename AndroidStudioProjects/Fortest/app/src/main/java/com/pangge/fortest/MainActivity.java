@@ -43,6 +43,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
 
     private FragmentPagerAdapter mAdapter;
 
+    //first commit
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
